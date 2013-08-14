@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['hasbeenreceived',['hasBeenReceived',['../class_waiting_for_data_dialog.html#ade5cad726f9f498b0d9aa249573f8fb3',1,'WaitingForDataDialog']]],
+  ['hascharacter',['hasCharacter',['../class_stack_model.html#ae0e268a97d3445c08df34c2ed7d99d8c',1,'StackModel']]],
+  ['hascharacterspawned',['hasCharacterSpawned',['../class_player_model.html#a2a2b84c84ad5890b35e1dbd8397b6fad',1,'PlayerModel']]],
+  ['hasemailgamedirset',['hasEMailGameDirSet',['../class_mail_game_info.html#ad04f79c0b48f894b14a690f15e5a634a',1,'MailGameInfo']]],
+  ['hasfloor',['hasFloor',['../class_stack_model.html#ad3164ab4a6019c3018d4460d6585e10b',1,'StackModel']]],
+  ['hasinfinityweight',['hasInfinityWeight',['../class_a_star_map_entry.html#a39c4582f66c05a3a85a0443eb6e5a8eb',1,'AStarMapEntry']]],
+  ['hasonlysavedmapchanges',['hasOnlySavedMapChanges',['../class_undo_redo.html#abe675ee5909b25c514f816d101ae0bff',1,'UndoRedo']]],
+  ['hasonlysavedworldchanges',['hasOnlySavedWorldChanges',['../class_undo_redo.html#ae8e8ddef8ae820959136a5896946935c',1,'UndoRedo']]],
+  ['hassavedirset',['hasSaveDirSet',['../class_mail_game_info.html#a2371d7bb9f6f4b82fd8cb07350be834e',1,'MailGameInfo']]],
+  ['hasspaceforspecial',['hasSpaceForSpecial',['../class_stack_model.html#a657cc9fb314ef909597027efde4a7c19',1,'StackModel']]],
+  ['hasstartpositions',['hasStartPositions',['../class_map_model.html#a109642824f3fe9630e6dfe1fbac26781',1,'MapModel']]],
+  ['haswall',['hasWall',['../class_stack_model.html#a907c92296adf7316ebea565bdb38a9a5',1,'StackModel']]],
+  ['height',['height',['../class_stack_model.html#a0017e9df7081f0b92e8b95c22b7e64e6',1,'StackModel']]],
+  ['heightsizechanged',['heightSizeChanged',['../class_map_model.html#af8b23600be497a6dc77e510b02ccc0f2',1,'MapModel']]],
+  ['helpmenu',['helpMenu',['../class_editor_menu.html#aa4b500a9e333f41aa5a4d191e07b0a8c',1,'EditorMenu']]],
+  ['heuristicaldistanceto',['heuristicalDistanceTo',['../class_a_star_map_entry.html#a48b39f055dd803aa4ca669c988e1b876',1,'AStarMapEntry']]],
+  ['horizontaldirection',['horizontalDirection',['../class_apply_map_geometry_changes.html#ae2eac1e6faf6e6c7944d28b250f760c7',1,'ApplyMapGeometryChanges']]],
+  ['horizontalnewvalue',['horizontalNewValue',['../class_apply_map_geometry_changes.html#a4abab413da982043f9472672f3deecbc',1,'ApplyMapGeometryChanges']]],
+  ['horizontalsizechanged',['horizontalSizeChanged',['../class_map_model.html#a4c749350f4ce67ab8ba62042558448d9',1,'MapModel']]],
+  ['horizontalsquaresidecombobox',['horizontalSquareSideComboBox',['../class_map_properties_dialog.html#a5af307eafdd035b47cdd680d21930fd9',1,'MapPropertiesDialog']]],
+  ['horizontalsquarespinbox',['horizontalSquareSpinBox',['../class_map_properties_dialog.html#a37c1980fda5def69daca5c11846cd7c4',1,'MapPropertiesDialog']]],
+  ['hotseat',['HOTSEAT',['../namespace_p_i_d_g_i_r_l.html#aa29210f7eb01d873637f205c81b2d129ac08b5ba1eb8194b61663051682109e6e',1,'PIDGIRL']]],
+  ['hotseatgamemodel',['HotseatGameModel',['../class_hotseat_game_model.html',1,'HotseatGameModel'],['../class_hotseat_game_model.html#ac2cf19d32fae2ad4355c54fd9c3d96c6',1,'HotseatGameModel::HotseatGameModel()']]],
+  ['hotseatgamemodel_2ecpp',['HotseatGameModel.cpp',['../_hotseat_game_model_8cpp.html',1,'']]],
+  ['hotseatgamemodel_2eh',['HotseatGameModel.h',['../_hotseat_game_model_8h.html',1,'']]]
+];

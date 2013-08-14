@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/objects/characters">
+        <file alias="hero">ressource/objects/characters/hero.png</file>
+    </qresource>
+    <qresource prefix="/objects/walls">
+        <file alias="brick_wall">ressource/objects/walls/brick.png</file>
+    </qresource>
+    <qresource prefix="/misc/directionArrows">
+        <file alias="destination">ressource/misc/directionArrows/destination.png</file>
+        <file alias="e">ressource/misc/directionArrows/e.png</file>
+        <file alias="n">ressource/misc/directionArrows/n.png</file>
+        <file alias="ne">ressource/misc/directionArrows/ne.png</file>
+        <file alias="nw">ressource/misc/directionArrows/nw.png</file>
+        <file alias="s">ressource/misc/directionArrows/s.png</file>
+        <file alias="se">ressource/misc/directionArrows/se.png</file>
+        <file alias="sw">ressource/misc/directionArrows/sw.png</file>
+        <file alias="w">ressource/misc/directionArrows/w.png</file>
+    </qresource>
+    <qresource prefix="/objects/items">
+        <file alias="knife">ressource/objects/items/knife.png</file>
+    </qresource>
+</RCC>

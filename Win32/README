@@ -1,0 +1,37 @@
+INFO:
+The archive in this folder holds all the files precompiled with MinGW and the given g++ 4.8.0 you'll need to compile QT for Windows.
+
+How to compile crypto++ with QT:
+1. Check what version your g++ is. Should be > 4.7, otherwise it won't work.
+2. Download crypto++ from their homepage. Extract it.
+3. cmd.exe and go to the folder where you extracted crypto++ to in the cmd.exe (command prompt).
+4. 'erase /f GNUmakefile' (we won't be needing this)
+5. qmake -project
+6. Open the created pro-file and edit it:
+    Change:
+    TEMPLATE = app 
+    to
+    TEMPLATE = lib
+    
+    Add:
+    CONFIG -= qt
+    LIBS += -lws2_32
+    
+7. Open fipstest.cpp and rename OutputDebugString to OutputDebugStringA.
+8. You're ready to compile.
+9. qmake
+10. mingw32-make all -j<Number of CPUs + 1>
+11. You will get a release and debug folder with alot of o filed and one cryptopp.dll and cryptopp.a for each folder.
+12. Copy all .h files in a seperate folder "include".
+
+How to dynamically link with crypto++ with QT after the library is compiled:
+1. Add to pro LIBS += -lcryptopp
+2. Next use either the cryptopp.dll and cryptopp.a files from the debug or release folder depending on wether you 
+   want to compile your QT project as debug or release.
+3. Copy the debug or release .a and .dll to your "lib" folder, where to compiler will look for it.
+4. Copy the .h files from the "include" folder to the "include" folger where your compiler will look for them.
+5. Start compiling, it should throw some errors and alot of warnings from the cryptopp library but you can ignore them.
+6. If nothing else happens and you ignored the errors, your program should compile and run.
+7. Additionally to all the .dll's dynamically needed by QT, you'll also have to add the cryptopp.dll to the executable or where
+   the executable can find the .dll.
+   

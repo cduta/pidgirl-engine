@@ -1,0 +1,12 @@
+Compiled with:
+GCC version 4.8.1 (GCC)
+Qt version 5.1.0 (with the following modules: core gui widgets network)
+
+Dependencies:
+Qt version 5.1.0
+Crypto++ 5.6.2
+
+DON'T FORGET:
+Put the pidgirl_xx.qm files, where xx is a locale (i.e.: en),
+into the same folder as the compiled binary to get other languages.
+

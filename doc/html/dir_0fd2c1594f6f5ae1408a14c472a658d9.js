@@ -1,0 +1,37 @@
+var dir_0fd2c1594f6f5ae1408a14c472a658d9 =
+[
+    [ "AddToChosenList.cpp", "_add_to_chosen_list_8cpp.html", null ],
+    [ "AddToChosenList.h", "_add_to_chosen_list_8h.html", null ],
+    [ "ApplyWorldPropertiesChanges.cpp", "_apply_world_properties_changes_8cpp.html", null ],
+    [ "ApplyWorldPropertiesChanges.h", "_apply_world_properties_changes_8h.html", [
+      [ "ApplyWorldPropertiesChanges", "class_apply_world_properties_changes.html", "class_apply_world_properties_changes" ]
+    ] ],
+    [ "AskForSaveWorld.cpp", "_ask_for_save_world_8cpp.html", null ],
+    [ "AskForSaveWorld.h", "_ask_for_save_world_8h.html", null ],
+    [ "DuplicateWorldEntry.cpp", "_duplicate_world_entry_8cpp.html", null ],
+    [ "DuplicateWorldEntry.h", "_duplicate_world_entry_8h.html", null ],
+    [ "LoadWorld.cpp", "_load_world_8cpp.html", null ],
+    [ "LoadWorld.h", "_load_world_8h.html", null ],
+    [ "MoveFile.cpp", "_move_file_8cpp.html", null ],
+    [ "MoveFile.h", "_move_file_8h.html", null ],
+    [ "NewFolder.cpp", "_new_folder_8cpp.html", null ],
+    [ "NewFolder.h", "_new_folder_8h.html", null ],
+    [ "NewMapFile.cpp", "_new_map_file_8cpp.html", null ],
+    [ "NewMapFile.h", "_new_map_file_8h.html", null ],
+    [ "NewWorld.cpp", "_new_world_8cpp.html", null ],
+    [ "NewWorld.h", "_new_world_8h.html", null ],
+    [ "RemoveFromChosenList.cpp", "_remove_from_chosen_list_8cpp.html", null ],
+    [ "RemoveFromChosenList.h", "_remove_from_chosen_list_8h.html", null ],
+    [ "RemoveWorldEntry.cpp", "_remove_world_entry_8cpp.html", null ],
+    [ "RemoveWorldEntry.h", "_remove_world_entry_8h.html", null ],
+    [ "RenameWorldEntry.cpp", "_rename_world_entry_8cpp.html", null ],
+    [ "RenameWorldEntry.h", "_rename_world_entry_8h.html", null ],
+    [ "SaveMap.cpp", "_save_map_8cpp.html", null ],
+    [ "SaveMap.h", "_save_map_8h.html", null ],
+    [ "SaveMapAs.cpp", "_save_map_as_8cpp.html", null ],
+    [ "SaveMapAs.h", "_save_map_as_8h.html", null ],
+    [ "SaveWorld.cpp", "_save_world_8cpp.html", null ],
+    [ "SaveWorld.h", "_save_world_8h.html", null ],
+    [ "SaveWorldAs.cpp", "_save_world_as_8cpp.html", null ],
+    [ "SaveWorldAs.h", "_save_world_as_8h.html", null ]
+];
