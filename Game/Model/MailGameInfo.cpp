@@ -226,7 +226,7 @@ void MailGameInfo::serialize(QDataStream &stream) const
     stream << this->getLocalEMailGamePath();
     stream << QByteArray(this->cipherText.c_str(), this->cipherText.size());
     stream << this->hasSaveDirSet();
-    stream << this->saveDir.absolutePath();
+    stream << this->saveDir.path();
     return;
 }
 

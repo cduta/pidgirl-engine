@@ -37,7 +37,7 @@ namespace PIDGIRL
     /**
       * \brief Version Number.
       */
-    const QString PIDGIRL_VERSION = "0.5";
+    const QString PIDGIRL_VERSION = "1.0";
 
     /**
       * \brief Specifies the milliseconds until a file access should be retried. 1 sec = 1 millisecond.
